@@ -19,4 +19,6 @@
 
 ## Firebase Storage
 
+-   Create project
+-   [Documentation](https://firebase.google.com/docs/storage/web/create-reference)
 -   Up to 10 GB
