@@ -1,11 +1,18 @@
 # Joey's Art Portfolio
 
-### HomePage
+## HomePage
 
 -   title
 -   background picture
 -   view works button
 
-### Navbar
+## Navbar
 
 -   types of work
+
+## Login
+
+-   Username
+-   Password
+-   Option to upload work
+    -   check off category(ies) it belongs to
